@@ -10,10 +10,24 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 /*
-    Author: Jesús Sánchez de Castro
-    Last Modification: 25/08/2016
-    https://github.com/Yussoft
+    *Copyright (C) 2016  Jesús Sánchez de Castro
+    *This program is free software: you can redistribute it and/or modify
+    *it under the terms of the GNU General Public License as published by
+    *the Free Software Foundation, either version 3 of the License, or
+    *(at your option) any later version.
+    *This program is distributed in the hope that it will be useful,
+    *but WITHOUT ANY WARRANTY; without even the implied warranty of
+    *MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    *GNU General Public License for more details.
+    *You should have received a copy of the GNU General Public License
+    *along with this program.  If not, see <http://www.gnu.org/licenses/>
+    *
+    * @author Jesús Sánchez de Castro
+    * @version 19.09.2016
+    *
+    Last Modification: 19/09/2016
     https://justyusblog.wordpress.com/
+    https://github.com/Yussoft
 
     App idea: MovimientoSonido is a very simple application that uses the accelerometer sensor
     to simulate the act of knocking at a door. When the user does the simulated movement three
